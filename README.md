@@ -1,5 +1,4 @@
-# David Rivera
-
+# David Rivera  
 
 # Getting Started with Create React App
 
